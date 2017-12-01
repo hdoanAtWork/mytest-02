@@ -1,0 +1,11 @@
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\bin\Release\netcoreapp2.0\mytest-02.deps.json
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\bin\Release\netcoreapp2.0\mytest-02.runtimeconfig.json
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\bin\Release\netcoreapp2.0\mytest-02.runtimeconfig.dev.json
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\bin\Release\netcoreapp2.0\mytest-02.dll
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\bin\Release\netcoreapp2.0\mytest-02.pdb
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\obj\Release\netcoreapp2.0\mytest-02.csprojResolveAssemblyReference.cache
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\obj\Release\netcoreapp2.0\mytest-02.csproj.CoreCompileInputs.cache
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\obj\Release\netcoreapp2.0\mytest-02.AssemblyInfoInputs.cache
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\obj\Release\netcoreapp2.0\mytest-02.AssemblyInfo.cs
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\obj\Release\netcoreapp2.0\mytest-02.dll
+C:\_HD\Docker\Tutorials\mytest-02\mytest-02\obj\Release\netcoreapp2.0\mytest-02.pdb
